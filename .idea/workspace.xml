@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ba18131-4e5d-4320-9ade-f67eb0cd1ab9" name="Default" comment="" />
+    <ignored path="SSCMonitoring.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SSCMonitoring" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ServerFunctions.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/controller/ServerFunctions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="156" column="51" selection-start="7530" selection-end="7530" vertical-scroll-proportion="0.38698012" vertical-offset="2126" max-vertical-offset="3735">
+              <folding>
+                <marker date="1479017707514" expanded="true" signature="517:556" placeholder="INSERT INTO ..." />
+                <marker date="1479017707514" expanded="true" signature="689:839" placeholder="SELECT type,..officers..." />
+                <marker date="1479017707514" expanded="true" signature="1686:1731" placeholder="SELECT offic..officers..." />
+                <marker date="1479017707514" expanded="true" signature="2024:2120" placeholder="SELECT statu..logs..." />
+                <marker date="1479017707514" expanded="true" signature="2075:2119" placeholder="SELECT MAX(l..logs..." />
+                <marker date="1479017707514" expanded="true" signature="3567:3636" placeholder="INSERT INTO ..." />
+                <marker date="1479017707514" expanded="true" signature="4317:4723" placeholder="SELECT o.ful..officers..." />
+                <marker date="1479017707514" expanded="true" signature="5482:5547" placeholder="SELECT * FRO..officers..." />
+                <marker date="1479017707514" expanded="true" signature="5673:5851" placeholder="SELECT SUM(t..officers..." />
+                <marker date="1479017707514" expanded="true" signature="7024:7138" placeholder="SELECT l.* F..logs..." />
+                <marker date="1479017707514" expanded="true" signature="7326:7339" placeholder="..." />
+                <marker date="1479017707514" expanded="true" signature="8115:8182" placeholder="SELECT * FRO..officers..." />
+                <marker date="1479017707514" expanded="true" signature="8313:8491" placeholder="SELECT SUM(t..officers..." />
+                <marker date="1479017707514" expanded="true" signature="10104:10159" placeholder="INSERT INTO ..." />
+                <marker date="1479017707514" expanded="true" signature="10493:10542" placeholder="UPDATE offic..." />
+                <marker date="1479017707514" expanded="true" signature="10827:10864" placeholder="SELECT * FRO..officers..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="25" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.0" vertical-offset="370" max-vertical-offset="1020">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functionality.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/functionality.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="30" selection-start="2910" selection-end="2910" vertical-scroll-proportion="0.0" vertical-offset="762" max-vertical-offset="3255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="27" selection-start="1330" selection-end="1330" vertical-scroll-proportion="-15.0" vertical-offset="30" max-vertical-offset="1440">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/server/controller/DatabaseConnector.php" />
+        <option value="$PROJECT_DIR$/server/addOfficer.php" />
+        <option value="$PROJECT_DIR$/js/functionality.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/server/controller/ServerFunctions.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SSCMonitoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../syt" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba18131-4e5d-4320-9ade-f67eb0cd1ab9" name="Default" comment="" />
+      <created>1478184363355</created>
+      <updated>1478184363355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26510575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/controller/ServerFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="122" selection-start="4742" selection-end="4742" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3570">
+          <folding>
+            <marker date="1479017707514" expanded="true" signature="517:556" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="689:839" placeholder="SELECT type,..officers..." />
+            <marker date="1479017707514" expanded="true" signature="1686:1731" placeholder="SELECT offic..officers..." />
+            <marker date="1479017707514" expanded="true" signature="2024:2120" placeholder="SELECT statu..logs..." />
+            <marker date="1479017707514" expanded="true" signature="2075:2119" placeholder="SELECT MAX(l..logs..." />
+            <marker date="1479017707514" expanded="true" signature="3567:3636" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="4317:4723" placeholder="SELECT o.ful..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5482:5547" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5673:5851" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="7024:7138" placeholder="SELECT l.* F..logs..." />
+            <marker date="1479017707514" expanded="true" signature="7326:7339" placeholder="..." />
+            <marker date="1479017707514" expanded="true" signature="8115:8182" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="8313:8491" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="10104:10159" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="10493:10542" placeholder="UPDATE offic..." />
+            <marker date="1479017707514" expanded="true" signature="10827:10864" placeholder="SELECT * FRO..officers..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functionality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="30" selection-start="2910" selection-end="2910" vertical-scroll-proportion="0.0" vertical-offset="717" max-vertical-offset="3255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="143" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controller/ServerFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="122" selection-start="4742" selection-end="4742" vertical-scroll-proportion="0.0" vertical-offset="1468" max-vertical-offset="3570">
+          <folding>
+            <marker date="1479017707514" expanded="true" signature="517:556" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="689:839" placeholder="SELECT type,..officers..." />
+            <marker date="1479017707514" expanded="true" signature="1686:1731" placeholder="SELECT offic..officers..." />
+            <marker date="1479017707514" expanded="true" signature="2024:2120" placeholder="SELECT statu..logs..." />
+            <marker date="1479017707514" expanded="true" signature="2075:2119" placeholder="SELECT MAX(l..logs..." />
+            <marker date="1479017707514" expanded="true" signature="3567:3636" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="4317:4723" placeholder="SELECT o.ful..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5482:5547" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5673:5851" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="7024:7138" placeholder="SELECT l.* F..logs..." />
+            <marker date="1479017707514" expanded="true" signature="7326:7339" placeholder="..." />
+            <marker date="1479017707514" expanded="true" signature="8115:8182" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="8313:8491" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="10104:10159" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="10493:10542" placeholder="UPDATE offic..." />
+            <marker date="1479017707514" expanded="true" signature="10827:10864" placeholder="SELECT * FRO..officers..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functionality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="30" selection-start="2910" selection-end="2910" vertical-scroll-proportion="0.0" vertical-offset="717" max-vertical-offset="3255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="143" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controller/ServerFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="29" selection-start="1237" selection-end="1237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2985">
+          <folding>
+            <marker date="1479017707514" expanded="true" signature="517:556" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="689:839" placeholder="SELECT type,..officers..." />
+            <marker date="1479017707514" expanded="true" signature="1686:1731" placeholder="SELECT offic..officers..." />
+            <marker date="1479017707514" expanded="true" signature="2024:2120" placeholder="SELECT statu..logs..." />
+            <marker date="1479017707514" expanded="true" signature="2075:2119" placeholder="SELECT MAX(l..logs..." />
+            <marker date="1479017707514" expanded="true" signature="3567:3636" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="4317:4723" placeholder="SELECT o.ful..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5482:5547" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5673:5851" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="7024:7138" placeholder="SELECT l.* F..logs..." />
+            <marker date="1479017707514" expanded="true" signature="7326:7339" placeholder="..." />
+            <marker date="1479017707514" expanded="true" signature="8115:8182" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="8313:8491" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="10104:10159" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="10493:10542" placeholder="UPDATE offic..." />
+            <marker date="1479017707514" expanded="true" signature="10827:10864" placeholder="SELECT * FRO..officers..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functionality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="3" selection-start="3121" selection-end="3121" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="3180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="28" selection-start="1257" selection-end="1257" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controller/ServerFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="27" selection-start="4539" selection-end="4539" vertical-scroll-proportion="0.0" vertical-offset="1359" max-vertical-offset="1995">
+          <folding>
+            <marker date="1479017707514" expanded="true" signature="517:556" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="689:839" placeholder="SELECT type,..officers..." />
+            <marker date="1479017707514" expanded="true" signature="1686:1731" placeholder="SELECT offic..officers..." />
+            <marker date="1479017707514" expanded="true" signature="2024:2120" placeholder="SELECT statu..logs..." />
+            <marker date="1479017707514" expanded="true" signature="2075:2119" placeholder="SELECT MAX(l..logs..." />
+            <marker date="1479017707514" expanded="true" signature="3567:3636" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="4317:4723" placeholder="SELECT o.ful..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5482:5547" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5673:5851" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="7024:7138" placeholder="SELECT l.* F..logs..." />
+            <marker date="1479017707514" expanded="true" signature="7326:7339" placeholder="..." />
+            <marker date="1479017707514" expanded="true" signature="8115:8182" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="8313:8491" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="10104:10159" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="10493:10542" placeholder="UPDATE offic..." />
+            <marker date="1479017707514" expanded="true" signature="10827:10864" placeholder="SELECT * FRO..officers..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controller/DatabaseConnector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controller/DatabaseConnector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/addOfficer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="40" selection-start="953" selection-end="953" vertical-scroll-proportion="0.58303887" vertical-offset="0" max-vertical-offset="566" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="27" selection-start="1330" selection-end="1330" vertical-scroll-proportion="-15.0" vertical-offset="30" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functionality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="30" selection-start="2910" selection-end="2910" vertical-scroll-proportion="0.0" vertical-offset="717" max-vertical-offset="3255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="25" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.0" vertical-offset="370" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controller/ServerFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="51" selection-start="7530" selection-end="7530" vertical-scroll-proportion="0.38698012" vertical-offset="2126" max-vertical-offset="3735">
+          <folding>
+            <marker date="1479017707514" expanded="true" signature="517:556" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="689:839" placeholder="SELECT type,..officers..." />
+            <marker date="1479017707514" expanded="true" signature="1686:1731" placeholder="SELECT offic..officers..." />
+            <marker date="1479017707514" expanded="true" signature="2024:2120" placeholder="SELECT statu..logs..." />
+            <marker date="1479017707514" expanded="true" signature="2075:2119" placeholder="SELECT MAX(l..logs..." />
+            <marker date="1479017707514" expanded="true" signature="3567:3636" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="4317:4723" placeholder="SELECT o.ful..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5482:5547" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="5673:5851" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="7024:7138" placeholder="SELECT l.* F..logs..." />
+            <marker date="1479017707514" expanded="true" signature="7326:7339" placeholder="..." />
+            <marker date="1479017707514" expanded="true" signature="8115:8182" placeholder="SELECT * FRO..officers..." />
+            <marker date="1479017707514" expanded="true" signature="8313:8491" placeholder="SELECT SUM(t..officers..." />
+            <marker date="1479017707514" expanded="true" signature="10104:10159" placeholder="INSERT INTO ..." />
+            <marker date="1479017707514" expanded="true" signature="10493:10542" placeholder="UPDATE offic..." />
+            <marker date="1479017707514" expanded="true" signature="10827:10864" placeholder="SELECT * FRO..officers..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

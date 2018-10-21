@@ -1,0 +1,63 @@
+
+body {
+    background: -webkit-repeating-radial-gradient(left, deepskyblue 20%, mediumblue 10%, blue 25%, darkblue 40%) !important;
+}
+
+#header {
+    background: #000000 !important;
+    color: #ffff00;
+    font-weight: bolder;
+    border: none !important;
+}
+
+#divMainContainer {
+    box-shadow: 0px 6px 100px white;
+    background: #ffffff !important;
+    margin-top: -21px !important;
+    padding-top: 35px !important;
+}
+
+.menu {
+    background: #ffff00;
+    border-radius: 5px;
+    color: #000000 !important;
+
+}
+
+a {
+    cursor: pointer;
+}
+
+#divAddOfficer, #divUpdateOfficer {
+    display: none;
+}
+
+.single-spacing {
+    line-height: 1em;
+}
+
+#tblSSCSummary, #tblYLEAPSummary {
+}
+
+.fixed {
+
+}
+
+.transparent {
+    background: -webkit-repeating-radial-gradient(right, deepskyblue 30%, mediumblue 30%, blue 45%) !important;
+    color: #f5f5f5;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    box-shadow: 0px 6px 100px white;
+
+}
+
+.in {
+    color: green !important;
+    font-weight: bold !important;
+}
+
+.out {
+    color: red !important;
+}
